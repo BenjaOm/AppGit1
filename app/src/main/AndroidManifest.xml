@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginSimple">
         <activity
+            android:name=".RamaGit"
+            android:exported="true" />
+        <activity
             android:name=".BranchTest"
             android:exported="true" />
         <activity
