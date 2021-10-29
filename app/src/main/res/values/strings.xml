@@ -11,10 +11,10 @@
     <string name="perfil">Perfil</string>
     <string name="info">Información</string>
     <string name="configuracion">Configuración</string>
-    
+
     <string name="Frame1">Reservas</string>
     <string name="Frame2">Pedidos</string>
-    
+
     <string name="drawer_open">Abrir drawer</string>
     <string name="drawer_close">Cerrar drawer</string>
 
